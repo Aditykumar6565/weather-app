@@ -1,4 +1,5 @@
-##Weather App
+#Weather App
+
 This Weather App is a simple web application created using Vite.js and React that utilizes a weather API to display real-time weather information for a specified location.
 
 #Features
