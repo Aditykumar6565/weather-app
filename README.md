@@ -21,19 +21,24 @@ Clone the repository:-
 https://github.com/Aditykumar6565/weather-app.git
 
 cd weather-app
+
 npm install
 
 Start the application:
+
 npm run dev
 
 Open the app in your browser:
 The app will be running at http://localhost:3000
 
 #Usage
+
 Enter the name of the location you want to get weather information for in the provided input field.
 Press the "Get Weather" or similar button to fetch and display real-time weather data.
 
 #Contributing
+
 Contributions are welcome! Feel free to open issues or submit pull requests
 #License
+
 This project is licensed under the MIT License.
